@@ -1,4 +1,7 @@
 # Amazon Sales Analysis
 
-This contains Amazon sales Analysis Rstudio codes, Tableau Link and Dashboard.
+This repository contains 
+Amazon sales Analysis python markdown file,
+Tableau Link, 
+Dashboard pngs .
 
